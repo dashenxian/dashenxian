@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 drop database and run
-[![dashenxian's github stats](https://github-readme-stats.vercel.app/api?username=dashenxian)](https://github.com/dashenxian/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dashenxian&show_icons=true&theme=dark)
